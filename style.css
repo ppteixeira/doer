@@ -1,0 +1,31 @@
+body{
+  background-color: #e6ede6;
+
+}
+.container{
+  box-sizing: border-box;
+  width: 50%;
+  margin: 0 auto;
+  background-color: white;
+  margin-top: 100px;
+  padding: 20px;
+  text-align: center;
+  border-radius: 15px;
+
+}
+.done {
+  text-decoration: line-through;
+  color: navy;
+
+}
+#todo-list{
+  background-color: #fcdee7;
+  border-radius: 15px;
+}
+#done-list {
+  background-color: #d7f7d8;
+  border-radius: 15px;
+}
+ul li{
+  text-align: left;
+}
